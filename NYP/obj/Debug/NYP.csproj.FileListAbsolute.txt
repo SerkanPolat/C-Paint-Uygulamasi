@@ -1,0 +1,14 @@
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\Emgu.CV.World.dll
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\ZedGraph.dll
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\Emgu.CV.World.xml
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\obj\Debug\NYP.csprojResolveAssemblyReference.cache
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\obj\Debug\NYP.csproj.GenerateResource.Cache
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\obj\Debug\NYP.Form1.resources
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\NYP.exe.config
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\NYP.exe
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\bin\Debug\NYP.pdb
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\obj\Debug\NYP.Properties.Resources.resources
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\obj\Debug\NYP.exe
+C:\Users\Sp\Documents\Visual Studio 2015\Projects\NYP\NYP\obj\Debug\NYP.pdb

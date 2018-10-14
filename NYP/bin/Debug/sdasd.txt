@@ -1,0 +1,6 @@
+Altigen|Red|235|154|138|57|97|64
+Daire|Red|285|345|236|296|49|42
+Altigen|Red|87|366|45|324|42|41
+Altigen|Magenta|364|213|316|165|48|53
+Kare|Magenta|444|77|444|77|37|40
+Daire|Magenta|360|32|333|5|27|42
